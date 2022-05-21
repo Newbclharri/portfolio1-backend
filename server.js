@@ -1,0 +1,36 @@
+////////////////////
+// DEPENDENCIES
+///////////////////
+require("dotenv").config();
+
+const express = require('express'); //server framework
+const cors = require('cors'); //cross origin resource sharing to access data from foreign origins
+
+/////////////////////
+// JSON FILES
+////////////////////
+const projects =require("./projects.json");
+const about = require("./about.json");
+
+// Create application object
+const app = express();
+const PORT = process.env.PORT || 4000;
+
+//////////////
+// MIDDLEWARE
+//////////////
+app.use(cors());
+
+//////////////
+// ROUTES
+//////////////
+
+//home route for api testing
+app.get("/", (req, res) =>{
+    res.send("Hello World")
+})
+
+/////////////
+// PORT LISTENER
+////////////
+app.listen(PORT, () => console.log("They're listening on port", PORT))
