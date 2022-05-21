@@ -9,7 +9,7 @@ const cors = require('cors'); //cross origin resource sharing to access data fro
 /////////////////////
 // JSON FILES
 ////////////////////
-const projects =require("./projects.json");
+const projects = require("./projects.json");
 const about = require("./about.json");
 
 // Create application object
@@ -28,9 +28,15 @@ app.use(cors());
 //home route for api testing
 app.get("/", (req, res) =>{
     res.send("Hello World")
-})
+});
+
+//route for retrieving projectws
+app.get("/projects", (req, res)=>{
+    //send projects via JSON
+    res.json(projects);
+});
 
 /////////////
 // PORT LISTENER
 ////////////
-app.listen(PORT, () => console.log("They're listening on port", PORT))
+app.listen(PORT, () => console.log("They're listening on port", PORT));
