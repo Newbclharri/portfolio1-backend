@@ -36,6 +36,12 @@ app.get("/projects", (req, res)=>{
     res.json(projects);
 });
 
+//route for retrieving about info
+app.get("/about", (req, res) =>{
+    //send about via JSON
+    res.json(about);
+});
+
 /////////////
 // PORT LISTENER
 ////////////
