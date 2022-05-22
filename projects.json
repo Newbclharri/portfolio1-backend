@@ -3,12 +3,12 @@
       "name": "project1",
       "live": "https://devskillingitdaily.herokuapp.com/skills",
       "git": "https://github.com/Newbclharri/project2-my-skills-app",
-      "image": "https://imgur.com/a/SL1Kumj"
+      "image": "https://i.imgur.com/6ORLxEK.png"
     },
     {
       "name": "project2",
       "live": "https://cjhturtlesapi.herokuapp.com/turtles",
       "git": "http://www.github.com/username/reponame",
-      "image": "https://imgur.com/a/aZcYbVO"
+      "image": "https://i.imgur.com/6uXulDA.png"
     }
   ]
