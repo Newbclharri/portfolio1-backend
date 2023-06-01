@@ -11,6 +11,7 @@ const cors = require('cors'); //cross origin resource sharing to access data fro
 ////////////////////
 const projects = require("./projects.json");
 const about = require("./about.json");
+const tutorials = require("./tutorials.json");
 
 // Create application object
 const app = express();
@@ -40,6 +41,12 @@ app.get("/projects", (req, res)=>{
 app.get("/about", (req, res) =>{
     //send about via JSON
     res.json(about);
+});
+
+//route for retrieving tutorial info
+app.get("/tutorials", (req, res)=>{
+    //send about via JSON
+    res.json(tutorials);
 });
 
 /////////////
