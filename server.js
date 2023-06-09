@@ -20,7 +20,7 @@ const PORT = process.env.PORT || 4000;
 //////////////
 // MIDDLEWARE
 //////////////
-//app.use(cors());
+app.use(cors());
 
 //////////////
 // ROUTES
