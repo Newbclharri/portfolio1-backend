@@ -20,11 +20,7 @@ const PORT = process.env.PORT || 4000;
 //////////////
 // MIDDLEWARE
 //////////////
-app.use(cors(
-    {
-        origin: "https://64841ff3c8f2a62fec2a1614--deluxe-gumdrop-e15f00.netlify.app",
-    }
-));
+app.use(cors());
 
 //////////////
 // ROUTES
