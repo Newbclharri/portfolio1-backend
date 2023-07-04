@@ -1,11 +1,13 @@
 [
     {
-        "title": "Code NOW!/Intro to JS/Part I",
-        "url": "https://youtu.be/1R_rSLaGZyg"
+        "title": "Code NOW!/Intro to JS/Part V/Coding without a Computer",
+        "url": "https://youtu.be/KKkD_fr5sus",
+        "id": "KKkD_fr5sus"
     },
 
     {
-        "title":"CODE NOW!/Intro to JS/Part II/What is Node.js",
-        "url": "https://youtu.be/XUfMgkF6wWo"
+        "title":"CODE NOW!/Intro to JS/Part IV/What's JS?",
+        "url": "https://youtu.be/PvwxeWIDbas",
+        "id": "PvwxeWIDbas"
     }
 ]
