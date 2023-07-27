@@ -1,14 +1,24 @@
 [
     {
-      "name": "project1",
+      "name": "Project 1: Development Skills Blog",
       "live": "https://devskillingitdaily.herokuapp.com/skills",
       "git": "https://github.com/Newbclharri/project2-my-skills-app",
       "image": "https://i.imgur.com/6ORLxEK.png"
     },
+
     {
-      "name": "project2",
+      "name": "Project 2: Pokedex",
+      "live": "https://pokedex-0lyq.onrender.com/pokedex",
+      "git": "https://github.com/Newbclharri/pokedex",
+      "image": "https://i.imgur.com/FXMKXcE.png"
+    },
+
+    {
+      "name": "Project 3: API Structuring",
       "live": "https://cjhturtlesapi.herokuapp.com/turtles",
       "git": "http://www.github.com/username/reponame",
       "image": "https://i.imgur.com/6uXulDA.png"
     }
+    
+    
   ]
