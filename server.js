@@ -6,6 +6,7 @@ require("dotenv").config();
 const express = require('express'); //server framework
 const cors = require('cors'); //cross origin resource sharing to access data from foreign origins
 const nodemailer = require("nodemailer");
+const EMAIL = process.env.EMAIL;
 
 const aws = require("@aws-sdk/client-ses");
 const defaultProvider = require("@aws-sdk/credential-provider-node");
