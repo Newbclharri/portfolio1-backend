@@ -63,12 +63,12 @@ app.post("/contact", (req, res)=>{
     const contents = req.body;
     console.log(contents)
     console.log(contents.message)
-    // sendEmail(contents)
-    //     .then(()=>{res.send("success")})
-    //     .catch(err => res.send(err.message));
-    // if(!contents){
-    //     return res.status(400).send({status: "failed"});
-    // } 
+    sendEmail(contents)
+        .then(()=>{res.send("success")})
+        .catch(err => res.send(err.message));
+    if(!contents){
+        return res.status(400).send({status: "failed"});
+    } 
 });
 
 //////////////////
