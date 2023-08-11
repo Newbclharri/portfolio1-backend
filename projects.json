@@ -4,6 +4,7 @@
       "live": "https://devskillingitdaily.herokuapp.com/skills",
       "deployment": "Render",
       "repo": "https://github.com/Newbclharri/project2-my-skills-app",
+      "repo-name": "Github",
       "image": "https://i.imgur.com/6ORLxEK.png"
     },
 
@@ -12,6 +13,7 @@
       "live": "https://pokedex-0lyq.onrender.com/pokedex",
       "deployment": "Render",
       "repo": "https://github.com/Newbclharri/pokedex",
+      "repo-name": "Github",
       "image": "https://i.imgur.com/FXMKXcE.png"
     },
 
@@ -20,6 +22,7 @@
       "live": "https://docs.google.com/spreadsheets/d/1LYtUUc-IsSs9bNnHZMFN6BcwbMDHxyq20SVwJ3euoWc/edit?usp=drive_link",
       "deployment": "Google",
       "repo": "https://docs.google.com/spreadsheets/d/1LYtUUc-IsSs9bNnHZMFN6BcwbMDHxyq20SVwJ3euoWc/edit?usp=drive_link",
+      "repo-name": "Google",
       "image": "https://i.imgur.com/efFUEtR.png"
     },
 
@@ -29,6 +32,7 @@
       "live": "https://docs.google.com/spreadsheets/d/1OwnQNdVW07n2Rsl1XakMracUU_Qg0BTrM-qAFdInv2g/edit?usp=sharing",
       "deployment": "Google",
       "repo": "https://docs.google.com/spreadsheets/d/1OwnQNdVW07n2Rsl1XakMracUU_Qg0BTrM-qAFdInv2g/edit?usp=sharing",
+      "repo-name": "Google",
       "image": "https://i.imgur.com/XVQ7v07.png"
     },
     {
@@ -36,6 +40,7 @@
       "live": "https://docs.google.com/spreadsheets/d/1EWER8ueYeAyZd10Lx2F5zBgORrBsvXpHL6VQoJP2TPc/edit?usp=sharing",
       "deployment": "Google",
       "repo": "https://docs.google.com/spreadsheets/d/1EWER8ueYeAyZd10Lx2F5zBgORrBsvXpHL6VQoJP2TPc/edit?usp=sharing",
+      "repo-name": "Google",
       "image": "https://i.imgur.com/ZRtYcfp.png"
     },
 
