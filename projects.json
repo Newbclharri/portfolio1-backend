@@ -49,7 +49,7 @@
       "live": "https://cjhturtlesapi.herokuapp.com/turtles",
       "deployment": "Heroku",
       "repo": "http://www.github.com/username/reponame",
-      "repoName": "Google",
+      "repoName": "Github",
       "image": "https://i.imgur.com/6uXulDA.png"
     }    
     
