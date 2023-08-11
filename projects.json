@@ -27,7 +27,7 @@
     {
       "name": "Project 4: Attendance Report",
       "live": "https://docs.google.com/spreadsheets/d/1OwnQNdVW07n2Rsl1XakMracUU_Qg0BTrM-qAFdInv2g/edit?usp=sharing",
-      "Deployment": "Google",
+      "deployment": "Google",
       "repo": "https://docs.google.com/spreadsheets/d/1OwnQNdVW07n2Rsl1XakMracUU_Qg0BTrM-qAFdInv2g/edit?usp=sharing",
       "image": "https://i.imgur.com/XVQ7v07.png"
     },
@@ -45,7 +45,6 @@
       "Deployment": "Heroku",
       "git": "http://www.github.com/username/reponame",
       "image": "https://i.imgur.com/6uXulDA.png"
-    }
-    
+    }    
     
   ]
