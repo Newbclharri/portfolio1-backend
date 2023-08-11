@@ -34,7 +34,7 @@
     {
       "name": "Project 5: Trip Budget Organizer",
       "live": "https://docs.google.com/spreadsheets/d/1EWER8ueYeAyZd10Lx2F5zBgORrBsvXpHL6VQoJP2TPc/edit?usp=sharing",
-      "Deployment": "Google",
+      "deployment": "Google",
       "repo": "https://docs.google.com/spreadsheets/d/1EWER8ueYeAyZd10Lx2F5zBgORrBsvXpHL6VQoJP2TPc/edit?usp=sharing",
       "image": "https://i.imgur.com/ZRtYcfp.png"
     },
@@ -42,7 +42,7 @@
     {
       "name": "Project 6: API Structuring",
       "live": "https://cjhturtlesapi.herokuapp.com/turtles",
-      "Deployment": "Heroku",
+      "deployment": "Heroku",
       "git": "http://www.github.com/username/reponame",
       "image": "https://i.imgur.com/6uXulDA.png"
     }    
