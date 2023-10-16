@@ -48,9 +48,18 @@
       "name": "Project 6: API Structuring",
       "live": "https://cjhturtlesapi.herokuapp.com/turtles",
       "deployment": "Heroku",
-      "repo": "http://www.github.com/username/reponame",
+      "repo": "https://github.com/Newbclharri/turtles-api",
       "repoName": "Github",
       "image": "https://i.imgur.com/6uXulDA.png"
-    }    
+    },
+
+    {
+      "name": "Project 7: SkyFan Django App",
+      "live": "https://skyfan.onrender.com",
+      "deployment": "Render",
+      "repo": "https://github.com/Newbclharri/django_sky",
+      "repoName": "Github",
+      "image": "https://i.imgur.com/MR1KkCr.png"
+    }
     
   ]
