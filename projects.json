@@ -1,65 +1,66 @@
 [
-    {
-      "name": "Project 1: Development Skills Blog",
-      "live": "https://devskillingitdaily.herokuapp.com/skills",
-      "deployment": "Render",
-      "repo": "https://github.com/Newbclharri/project2-my-skills-app",
-      "repoName": "Github",
-      "image": "https://i.imgur.com/6ORLxEK.png"
-    },
+  {
+    "name": "Project 1: SkyFan Django App",
+    "live": "https://skyfan.onrender.com",
+    "deployment": "Render",
+    "repo": "https://github.com/Newbclharri/django_sky",
+    "repoName": "Github",
+    "image": "https://i.imgur.com/SMyqVnV.png"
+  },
 
-    {
-      "name": "Project 2: Pokedex",
-      "live": "https://pokedex-0lyq.onrender.com/pokedex",
-      "deployment": "Render",
-      "repo": "https://github.com/Newbclharri/pokedex",
-      "repoName": "Github",
-      "image": "https://i.imgur.com/FXMKXcE.png"
-    },
+  {
+    "name": "Project 2: Development Skills Blog",
+    "live": "https://devskillingitdaily.herokuapp.com/skills",
+    "deployment": "Render",
+    "repo": "https://github.com/Newbclharri/project2-my-skills-app",
+    "repoName": "Github",
+    "image": "https://i.imgur.com/6ORLxEK.png"
+  },
 
-    {
-      "name": "Project 3: Attendance Tracker",
-      "live": "https://docs.google.com/spreadsheets/d/1LYtUUc-IsSs9bNnHZMFN6BcwbMDHxyq20SVwJ3euoWc/edit?usp=drive_link",
-      "deployment": "Google",
-      "repo": "https://docs.google.com/spreadsheets/d/1LYtUUc-IsSs9bNnHZMFN6BcwbMDHxyq20SVwJ3euoWc/edit?usp=drive_link",
-      "repoName": "Google",
-      "image": "https://i.imgur.com/efFUEtR.png"
-    },
+  {
+    "name": "Project 3: Pokedex",
+    "live": "https://pokedex-0lyq.onrender.com/pokedex",
+    "deployment": "Render",
+    "repo": "https://github.com/Newbclharri/pokedex",
+    "repoName": "Github",
+    "image": "https://i.imgur.com/FXMKXcE.png"
+  },
+
+  {
+    "name": "Project 4: Attendance Tracker",
+    "live": "https://docs.google.com/spreadsheets/d/1LYtUUc-IsSs9bNnHZMFN6BcwbMDHxyq20SVwJ3euoWc/edit?usp=drive_link",
+    "deployment": "Google",
+    "repo": "https://docs.google.com/spreadsheets/d/1LYtUUc-IsSs9bNnHZMFN6BcwbMDHxyq20SVwJ3euoWc/edit?usp=drive_link",
+    "repoName": "Google",
+    "image": "https://i.imgur.com/efFUEtR.png"
+  },
 
 
-    {
-      "name": "Project 4: Attendance Report",
-      "live": "https://docs.google.com/spreadsheets/d/1OwnQNdVW07n2Rsl1XakMracUU_Qg0BTrM-qAFdInv2g/edit?usp=sharing",
-      "deployment": "Google",
-      "repo": "https://docs.google.com/spreadsheets/d/1OwnQNdVW07n2Rsl1XakMracUU_Qg0BTrM-qAFdInv2g/edit?usp=sharing",
-      "repoName": "Google",
-      "image": "https://i.imgur.com/XVQ7v07.png"
-    },
-    {
-      "name": "Project 5: Trip Budget Organizer",
-      "live": "https://docs.google.com/spreadsheets/d/1EWER8ueYeAyZd10Lx2F5zBgORrBsvXpHL6VQoJP2TPc/edit?usp=sharing",
-      "deployment": "Google",
-      "repo": "https://docs.google.com/spreadsheets/d/1EWER8ueYeAyZd10Lx2F5zBgORrBsvXpHL6VQoJP2TPc/edit?usp=sharing",
-      "repoName": "Google",
-      "image": "https://i.imgur.com/ZRtYcfp.png"
-    },
+  {
+    "name": "Project 5: Attendance Report",
+    "live": "https://docs.google.com/spreadsheets/d/1OwnQNdVW07n2Rsl1XakMracUU_Qg0BTrM-qAFdInv2g/edit?usp=sharing",
+    "deployment": "Google",
+    "repo": "https://docs.google.com/spreadsheets/d/1OwnQNdVW07n2Rsl1XakMracUU_Qg0BTrM-qAFdInv2g/edit?usp=sharing",
+    "repoName": "Google",
+    "image": "https://i.imgur.com/XVQ7v07.png"
+  },
 
-    {
-      "name": "Project 6: API Structuring",
-      "live": "https://cjhturtlesapi.herokuapp.com/turtles",
-      "deployment": "Heroku",
-      "repo": "https://github.com/Newbclharri/turtles-api",
-      "repoName": "Github",
-      "image": "https://i.imgur.com/6uXulDA.png"
-    },
+  {
+    "name": "Project 6: Trip Budget Organizer",
+    "live": "https://docs.google.com/spreadsheets/d/1EWER8ueYeAyZd10Lx2F5zBgORrBsvXpHL6VQoJP2TPc/edit?usp=sharing",
+    "deployment": "Google",
+    "repo": "https://docs.google.com/spreadsheets/d/1EWER8ueYeAyZd10Lx2F5zBgORrBsvXpHL6VQoJP2TPc/edit?usp=sharing",
+    "repoName": "Google",
+    "image": "https://i.imgur.com/ZRtYcfp.png"
+  },
 
-    {
-      "name": "Project 7: SkyFan Django App",
-      "live": "https://skyfan.onrender.com",
-      "deployment": "Render",
-      "repo": "https://github.com/Newbclharri/django_sky",
-      "repoName": "Github",
-      "image": "https://i.imgur.com/SMyqVnV.png"
-    }
+  {
+    "name": "Project 7: API Structuring",
+    "live": "https://cjhturtlesapi.herokuapp.com/turtles",
+    "deployment": "Heroku",
+    "repo": "https://github.com/Newbclharri/turtles-api",
+    "repoName": "Github",
+    "image": "https://i.imgur.com/6uXulDA.png"
+  }
     
-  ]
+]
