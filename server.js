@@ -77,6 +77,8 @@ app.post("/contact", (req, res)=>{
 //////////////////
 function sendEmail(obj){
     console.log(typeof(obj))
+    const bodyEmail = `From: ${obj.name}\nEmail: ${obj.email}\n\n${obj.message}`
+
     return new Promise((resolve, reject)=>{
         const transporter = nodemailer.createTransport({
             SES: {ses,aws},
@@ -85,8 +87,7 @@ function sendEmail(obj){
             from: EMAIL, // sender address
             to: EMAIL, // list of receivers
             subject: obj.subject,
-            text: obj.message
-
+            text: bodyEmail
         };
         transporter.sendMail(mailConfigs,(err, info)=>{
             if(err){
