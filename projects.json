@@ -1,6 +1,6 @@
 [ 
   {
-    "name": "Project 1: Google Response Form Grader",
+    "name": "Google Response Form Grader",
     "live": "https://docs.google.com/spreadsheets/d/1vD-BaEQGJB5rYy3oSWu5hVkiXMvMx9IKqlL9hkNToDA/edit?usp=sharing",
     "deployment": "Render",
     "repo": "https://github.com/Newbclharri/grader",
@@ -11,8 +11,18 @@
     },
     "image": "https://i.imgur.com/SMyqVnV.png"
   },
+
   {
-    "name": "Project 1: SkyFan Django App",
+    "name": "Trip Budget Organizer",
+    "live": "https://docs.google.com/spreadsheets/d/1EWER8ueYeAyZd10Lx2F5zBgORrBsvXpHL6VQoJP2TPc/edit?usp=sharing",
+    "deployment": "Google",
+    "repo": "https://docs.google.com/spreadsheets/d/1EWER8ueYeAyZd10Lx2F5zBgORrBsvXpHL6VQoJP2TPc/edit?usp=sharing",
+    "repoName": "Google",
+    "image": "https://i.imgur.com/ZRtYcfp.png"
+  },
+  
+  {
+    "name": "SkyFan Django App",
     "live": "https://skyfan.onrender.com",
     "deployment": "Render",
     "repo": "https://github.com/Newbclharri/django_sky",
@@ -21,7 +31,7 @@
   },
 
   {
-    "name": "Project 2: Development Skills Blog",
+    "name": "Development Skills Blog",
     "live": "https://devskillingitdaily.herokuapp.com/skills",
     "deployment": "Render",
     "repo": "https://github.com/Newbclharri/project2-my-skills-app",
@@ -30,7 +40,7 @@
   },
 
   {
-    "name": "Project 3: Pokedex",
+    "name": "Pokedex",
     "live": "https://pokedex-0lyq.onrender.com/pokedex",
     "deployment": "Render",
     "repo": "https://github.com/Newbclharri/pokedex",
@@ -39,7 +49,7 @@
   },
 
   {
-    "name": "Project 4: Attendance Tracker",
+    "name": "Attendance Tracker",
     "live": "https://docs.google.com/spreadsheets/d/1LYtUUc-IsSs9bNnHZMFN6BcwbMDHxyq20SVwJ3euoWc/edit?usp=drive_link",
     "deployment": "Google",
     "repo": "https://docs.google.com/spreadsheets/d/1LYtUUc-IsSs9bNnHZMFN6BcwbMDHxyq20SVwJ3euoWc/edit?usp=drive_link",
@@ -49,7 +59,7 @@
 
 
   {
-    "name": "Project 5: Attendance Report",
+    "name": "Attendance Report",
     "live": "https://docs.google.com/spreadsheets/d/1OwnQNdVW07n2Rsl1XakMracUU_Qg0BTrM-qAFdInv2g/edit?usp=sharing",
     "deployment": "Google",
     "repo": "https://docs.google.com/spreadsheets/d/1OwnQNdVW07n2Rsl1XakMracUU_Qg0BTrM-qAFdInv2g/edit?usp=sharing",
@@ -57,17 +67,9 @@
     "image": "https://i.imgur.com/XVQ7v07.png"
   },
 
-  {
-    "name": "Project 6: Trip Budget Organizer",
-    "live": "https://docs.google.com/spreadsheets/d/1EWER8ueYeAyZd10Lx2F5zBgORrBsvXpHL6VQoJP2TPc/edit?usp=sharing",
-    "deployment": "Google",
-    "repo": "https://docs.google.com/spreadsheets/d/1EWER8ueYeAyZd10Lx2F5zBgORrBsvXpHL6VQoJP2TPc/edit?usp=sharing",
-    "repoName": "Google",
-    "image": "https://i.imgur.com/ZRtYcfp.png"
-  },
 
   {
-    "name": "Project 7: API Structuring",
+    "name": "API Structuring",
     "live": "https://cjhturtlesapi.herokuapp.com/turtles",
     "deployment": "Heroku",
     "repo": "https://github.com/Newbclharri/turtles-api",
