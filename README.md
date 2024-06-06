@@ -1,3 +1,6 @@
 # Render Deployment
-[Endpoint-about](https://cj-portfolio1-backend.herokuapp.com/about)
-[Endpoint-projects](https://cj-portfolio1-backend.herokuapp.com/projects)
+## Endpoints:
+|Endpoint|Link|
+|--------|----|
+|about| https://thatsombracoder.onrender.com/about |
+|projects | https://thatsombracoder.onrender.com/projects |
