@@ -47,7 +47,7 @@
     "name": "Attendance Report",
     "live": "https://docs.google.com/spreadsheets/d/1OwnQNdVW07n2Rsl1XakMracUU_Qg0BTrM-qAFdInv2g/edit?usp=sharing",
     "deployment": "Google",
-    "repo": "https://docs.google.com/spreadsheets/d/1OwnQNdVW07n2Rsl1XakMracUU_Qg0BTrM-qAFdInv2g/edit?usp=sharing",
+    "repo": "https://github.com/Newbclharri/google-sheets-attendance-report",
     "repoName": "Google",
     "image": "https://i.imgur.com/XVQ7v07.png"
   },
