@@ -1,4 +1,28 @@
-[ 
+[
+  {
+    "name": "Google Sheets Table of Contents",
+    "live": "https://docs.google.com/spreadsheets/d/1vD-BaEQGJB5rYy3oSWu5hVkiXMvMx9IKqlL9hkNToDA/edit?usp=sharing",
+    "deployment": "Google",
+    "repo": "https://github.com/Newbclharri/grader",
+    "repoName": "Github",
+    "video": {
+      "embedId": "Hl0ogSzhTAs",
+      "url": "https://www.youtube.com/watch?v=xP2qHi6h3IU&list=PLsERCB2GrFx7GRv-jsmDvFV5e0fJCMs7l&index=3&pp=gAQBiAQB"
+    },
+    "image": "https://imgur.com/a/wkFCWYm"
+  },
+  {
+    "name": "Trip Budget Organizer",
+    "live": "https://docs.google.com/spreadsheets/d/1EWER8ueYeAyZd10Lx2F5zBgORrBsvXpHL6VQoJP2TPc/edit?usp=sharing",
+    "deployment": "Google",
+    "repo": "https://docs.google.com/spreadsheets/d/1EWER8ueYeAyZd10Lx2F5zBgORrBsvXpHL6VQoJP2TPc/edit?usp=sharing",
+    "repoName": "Google",
+    "video": {
+      "embedId": "Hl0ogSzhTAs",
+      "url": "https://www.youtube.com/watch?v=nn9jimB-Ed0&list=PLsERCB2GrFx7GRv-jsmDvFV5e0fJCMs7l&index=1&pp=gAQBiAQB"
+    },
+    "image": "https://i.imgur.com/ZRtYcfp.png"
+  },
   {
     "name": "Google Response Form Grader",
     "live": "https://docs.google.com/spreadsheets/d/1vD-BaEQGJB5rYy3oSWu5hVkiXMvMx9IKqlL9hkNToDA/edit?usp=sharing",
@@ -7,20 +31,10 @@
     "repoName": "Github",
     "video": {
       "embedId": "Hl0ogSzhTAs",
-      "url": "https://www.youtube.com/watch?v=Hl0ogSzhTAs"
+      "url": "https://www.youtube.com/watch?v=99RqErlemOY&list=PLsERCB2GrFx7GRv-jsmDvFV5e0fJCMs7l&index=2&pp=gAQBiAQB"
     },
     "image": "https://i.imgur.com/SMyqVnV.png"
   },
-
-  {
-    "name": "Trip Budget Organizer",
-    "live": "https://docs.google.com/spreadsheets/d/1EWER8ueYeAyZd10Lx2F5zBgORrBsvXpHL6VQoJP2TPc/edit?usp=sharing",
-    "deployment": "Google",
-    "repo": "https://docs.google.com/spreadsheets/d/1EWER8ueYeAyZd10Lx2F5zBgORrBsvXpHL6VQoJP2TPc/edit?usp=sharing",
-    "repoName": "Google",
-    "image": "https://i.imgur.com/ZRtYcfp.png"
-  },
-  
   {
     "name": "Attendance Tracker",
     "live": "https://docs.google.com/spreadsheets/d/1LYtUUc-IsSs9bNnHZMFN6BcwbMDHxyq20SVwJ3euoWc/edit?usp=drive_link",
@@ -29,7 +43,6 @@
     "repoName": "Google",
     "image": "https://i.imgur.com/efFUEtR.png"
   },
-
   {
     "name": "Attendance Report",
     "live": "https://docs.google.com/spreadsheets/d/1OwnQNdVW07n2Rsl1XakMracUU_Qg0BTrM-qAFdInv2g/edit?usp=sharing",
@@ -38,7 +51,6 @@
     "repoName": "Google",
     "image": "https://i.imgur.com/XVQ7v07.png"
   },
-
   {
     "name": "SkyFan Django App",
     "live": "https://skyfan.onrender.com",
@@ -47,7 +59,6 @@
     "repoName": "Github",
     "image": "https://i.imgur.com/SMyqVnV.png"
   },
-
   {
     "name": "Development Skills Blog",
     "live": "https://devskillingitdaily.herokuapp.com/skills",
@@ -56,7 +67,6 @@
     "repoName": "Github",
     "image": "https://i.imgur.com/6ORLxEK.png"
   },
-
   {
     "name": "Pokedex",
     "live": "https://pokedex-0lyq.onrender.com/pokedex",
@@ -65,8 +75,6 @@
     "repoName": "Github",
     "image": "https://i.imgur.com/FXMKXcE.png"
   },
-
-
   {
     "name": "API Structuring",
     "live": "https://cjhturtlesapi.herokuapp.com/turtles",
@@ -74,5 +82,5 @@
     "repo": "https://github.com/Newbclharri/turtles-api",
     "repoName": "Github",
     "image": "https://i.imgur.com/6uXulDA.png"
-  }    
+  }
 ]
