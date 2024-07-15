@@ -39,7 +39,7 @@
     "name": "Attendance Tracker",
     "live": "https://docs.google.com/spreadsheets/d/1LYtUUc-IsSs9bNnHZMFN6BcwbMDHxyq20SVwJ3euoWc/edit?usp=drive_link",
     "deployment": "Google",
-    "repo": "https://docs.google.com/spreadsheets/d/1LYtUUc-IsSs9bNnHZMFN6BcwbMDHxyq20SVwJ3euoWc/edit?usp=drive_link",
+    "repo": "https://github.com/Newbclharri/google-sheets-attendance-tracker/tree/main",
     "repoName": "Google",
     "image": "https://i.imgur.com/efFUEtR.png"
   },
